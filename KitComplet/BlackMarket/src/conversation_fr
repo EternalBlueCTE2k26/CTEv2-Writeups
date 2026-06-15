@@ -1,0 +1,168 @@
+{Channel: #team-reconditionneurs | lundi 09:15}
+
+{SifterLx joined the channel}
+
+[admin]xXCarv4lho78Xx: Salut tout le monde !
+D4t4Miner_PT: Salut.
+SifterLx: Salut !
+[admin]xXCarv4lho78Xx: On a un nouveau aujourd'hui.
+D4t4Miner_PT: Bienvenue SifterLx !
+[admin]xXCarv4lho78Xx: Bienvenue dans la team.
+SifterLx: Merci beaucoup.
+[admin]xXCarv4lho78Xx: Tu viens de Lisbonne, non ?
+SifterLx: Oui, exactement.
+D4t4Miner_PT: Cool, on avait besoin de renfort.
+[admin]xXCarv4lho78Xx: On fait du traitement de data ici.
+SifterLx: Oui, on m'a expliqué un peu.
+[admin]xXCarv4lho78Xx: LeakForge devait être là pour t'expliquer, mais il n'est pas encore arrivé, hahaha !
+D4t4Miner_PT: Toujours en retard ce mec, hahaha !
+SifterLx: Pas de souci.
+[admin]xXCarv4lho78Xx: C'est notre expert technique.
+D4t4Miner_PT: Le meilleur pour le parsing.
+[admin]xXCarv4lho78Xx: On va commencer tranquille.
+[admin]xXCarv4lho78Xx: Prochaine étape, aider D4t4Miner_PT sur son projet.
+SifterLx: Parfait, merci !
+
+{Channel: #team-reconditionneurs | lundi 11:42}
+
+[admin]xXCarv4lho78Xx: Salut.
+D4t4Miner_PT: Salut !
+SifterLx: Salut.
+[admin]xXCarv4lho78Xx: Qui peut s'occuper du fichier ?
+D4t4Miner_PT: Pas moi, je suis sur autre chose.
+SifterLx: Je peux essayer, mais je ne connais pas encore bien.
+[admin]xXCarv4lho78Xx: LeakForge, il est où ?
+D4t4Miner_PT: Toujours pas là.
+[admin]xXCarv4lho78Xx: Sérieux, ça commence à bien faire !
+SifterLx: Il arrive bientôt, non ?
+[admin]xXCarv4lho78Xx: J'espère...
+
+{Channel: #team-reconditionneurs | lundi 14:20}
+
+[admin]xXCarv4lho78Xx: Bon, je vais expliquer un peu notre travail.
+[admin]xXCarv4lho78Xx: LeakForge connaît déjà cette partie.
+SifterLx: Oui, merci.
+D4t4Miner_PT: Ça va aider.
+[admin]xXCarv4lho78Xx: On reçoit des leaks de partout.
+[admin]xXCarv4lho78Xx: Notre boulot, c'est de trier et nettoyer tout ça.
+D4t4Miner_PT: Extraire ce qui est utile.
+[admin]xXCarv4lho78Xx: Exactement.
+[admin]xXCarv4lho78Xx: Moi, je suis le contact principal des Fantasmas.
+[admin]xXCarv4lho78Xx: Vous passez par moi pour tout.
+[admin]xXCarv4lho78Xx: C'est important, vous avez bien compris ?
+SifterLx: Compris.
+D4t4Miner_PT: Compris. Pour la 1000eme fois !
+[admin]xXCarv4lho78Xx: Mieux vaut 2 fois qu'1.
+[admin]xXCarv4lho78Xx: D'ailleurs, notre application chiffre les messages,
+[admin]xXCarv4lho78Xx: donc pas de copier-coller de texte,
+[admin]xXCarv4lho78Xx: ni screenshot de quoi que ce soit !
+[admin]xXCarv4lho78Xx: Compris?
+SifterLx: Compris.
+D4t4Miner_PT: Compris.
+[admin]xXCarv4lho78Xx: Il faut également toujours passer par TOR et .onion pour nous parler.
+[admin]xXCarv4lho78Xx: Mais ça, tu dois déjà le savoir.
+SifterLx: Oui.
+[admin]xXCarv4lho78Xx: Des questions ?
+SifterLx: On travaille sur quoi en ce moment ?
+[admin]xXCarv4lho78Xx: Plusieurs projets.
+[admin]xXCarv4lho78Xx: Des bases de données surtout.
+D4t4Miner_PT: Beaucoup de données.
+SifterLx: D'accord, merci.
+[admin]xXCarv4lho78Xx: Il faut qu'on trie, certaines n'ont rien d'intéressant.
+[admin]xXCarv4lho78Xx: Autre question ?
+SifterLx: Vous avez des logiciels maisons pour le parsing des données ?
+[admin]xXCarv4lho78Xx: On utilise Python.
+[admin]xXCarv4lho78Xx: Mais souvent, il faut aller regarder à la main avec du SQL.
+[admin]xXCarv4lho78Xx: "SELECT" est ton ami ;)
+SifterLx: Merci.
+[admin]xXCarv4lho78Xx: Jamais d'IA, on ne veut pas qu'on puisse remonter à nous !
+SifterLx: Compris.
+[admin]xXCarv4lho78Xx: Pour information, on a parfois aussi des JSON.
+[admin]xXCarv4lho78Xx: Autre question ?
+SifterLx: Non, ça va pour le moment.
+[admin]xXCarv4lho78Xx: Parfait. Merci pour votre attention.
+[admin]xXCarv4lho78Xx: On fait le point demain. Bon après-midi.
+SifterLx: Merci, à demain.
+D4t4Miner_PT: A demain, chef.
+
+{Channel: #team-reconditionneurs | mardi 09:47}
+
+{LeakForge joined the channel}
+
+LeakForge: Salut tout le monde !
+[admin]xXCarv4lho78Xx: Salut.
+D4t4Miner_PT: Salut !
+SifterLx: Salut.
+[admin]xXCarv4lho78Xx: Salut. Enfin, te voilà !
+D4t4Miner_PT: Il était temps, hahaha !
+LeakForge: Désolé, j'ai eu des problèmes.
+LeakForge: Je n'avais pas les droits pour rejoindre.
+LeakForge: Enfin bref, bonjour à tous.
+[admin]xXCarv4lho78Xx: Bienvenue quand même.
+LeakForge: Ah, le nouveau, salut SifterLx, bienvenue !
+SifterLx: Salut LeakForge, je vais avoir besoin de tes talents !
+[admin]xXCarv4lho78Xx: On t'attendait pour aider SifterLx.
+[admin]xXCarv4lho78Xx: Maintenant, on va pouvoir bosser.
+LeakForge: Je suis là maintenant.
+[admin]xXCarv4lho78Xx: Tant mieux.
+LeakForge: C'est quoi le programme ? Qu'est-ce que je peux faire pour vous ?
+SifterLx: J'ai besoin que tu me présentes vos outils habituels.
+SifterLx: Surtout sans IA c'est pas facile.
+SifterLx: Je suis en galère ^^"
+LeakForge: On va regarder ça. C'est quoi exactement ?
+[admin]xXCarv4lho78Xx: Il faut trouver des informations sur les utilisateurs dans les bases de données.
+[admin]xXCarv4lho78Xx: Identité, téléphones, adresses, scans de documents officiels, ...
+SifterLx: J'ai la base de données.
+SifterLx: Les premiers scripts ne donnent rien.
+LeakForge: Parfait, je regarde ça.
+LeakForge: J'ai quelques scripts qui trainent.
+LeakForge: Je te pousse ça.
+SifterLx: Super, merci !
+[admin]xXCarv4lho78Xx: On refait le point en fin d'après-midi alors.
+[admin]xXCarv4lho78Xx: A ce soir.
+SifterLx: A ce soir.
+D4t4Miner_PT: Salut.
+SifterLx: Salut.
+
+{Channel: #team-reconditionneurs | mardi 18:30}
+
+[admin]xXCarv4lho78Xx: Salut.
+LeakForge: Salut !
+D4t4Miner_PT: Salut.
+SifterLx: Salut !
+[admin]xXCarv4lho78Xx: Ça avance, le travail ?
+LeakForge: Oui, ça avance.
+D4t4Miner_PT: On progresse bien.
+[admin]xXCarv4lho78Xx: Vous en êtes où, exactement ?
+SifterLx: On a presque fini le premier fichier.
+[admin]xXCarv4lho78Xx: D'accord, merci.
+[admin]xXCarv4lho78Xx: Combien il en reste ?
+LeakForge: Encore trois fichiers.
+[admin]xXCarv4lho78Xx: D'accord, continuez.
+D4t4Miner_PT: Oui, chef !
+[admin]xXCarv4lho78Xx: On en parle demain.
+SifterLx: A demain.
+D4t4Miner_PT: A demain !
+SifterLx: Salut.
+
+{Channel: #team-reconditionneurs | mercredi 08:59}
+
+[admin]xXCarv4lho78Xx: Salut.
+LeakForge: Salut !
+D4t4Miner_PT: Salut.
+SifterLx: Salut !
+[admin]xXCarv4lho78Xx: Alors, les nouvelles ?
+D4t4Miner_PT: On a terminé la première partie.
+LeakForge: Tout est clean maintenant.
+[admin]xXCarv4lho78Xx: Parfait, bon travail !
+SifterLx: Merci.
+D4t4Miner_PT: Merci !
+LeakForge: Merci.
+[admin]xXCarv4lho78Xx: Ça se passe mieux SifterLx ?
+SifterLx: Oui, merci.
+[admin]xXCarv4lho78Xx: Super.
+[admin]xXCarv4lho78Xx: Vous pouvez finir ce soir ?
+D4t4Miner_PT: Oui, on finit ça.
+SifterLx: Oui, ce sera fait.
+[admin]xXCarv4lho78Xx: Excellent, merci !
+LeakForge: De rien.

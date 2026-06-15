@@ -1,0 +1,10 @@
+[package]
+name = "ToujoursEnVente"
+version = "0.1.1"
+edition = "2024"
+
+[dependencies]
+sha2 = "0.10"
+
+[dev-dependencies]
+hex-literal = "1.1"
