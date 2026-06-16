@@ -43,7 +43,7 @@ Ce message est celui d'un certain `bailbail83`, qui mène au compte d'un nouveau
 
 ![alt text for screen readers](images/compte-X-Miguel.png "reply de Miguel")
 
-Le pseudo de cette personne coïncide parfaitement avec le format de la preuve recherchée **MiaoumMiaou13** (insensible à la casse).
+Le pseudo de cette personne coïncide parfaitement avec le format de la preuve recherchée **MiaouMiaou13** (insensible à la casse).
 Faut-il s'arrêter là pour autant ? Non : qui est ce `Miguel` ?
 
 # Identifier le propriétaire du compte X : bailbail83
