@@ -88,7 +88,7 @@ Solutions des challenges du CTEv2 : "L'Enfer Numérique"
 | [SejourALHotel](./Fixeur/SejourALHotel/README.md)                               | B3cha                   | GoogleInt                  | facile         |                 |
 | [SurveillancePasTresDiescrete](./Fixeur/SurveillancePasTresDiescrete/README.md) | B3cha                   | moyen                      | facile         |                 |
 | [ToujoursDansLaPoche](./Fixeur/ToujoursDansLaPoche/README.md)                   | B3cha                   | osint                      | moyen          |                 |
-| [UneVilleEnChantier](./Fixeur/UneVilleEnChantier/README.md)                     | B3cha                   | osint                      | facile         |                 |
+| [UneVilleEnChantier](./Fixeur/UneVilleEnEchantier/README.md)                     | B3cha                   | osint                      | facile         |                 |
 | [VolRetour1](./Fixeur/VolRetour1/README.md)                                     | B3cha                   | osint & stegano & forensic | facile         |                 |
 | [VolRetour2](./Fixeur/VolRetour2/README.md)                                     | B3cha                   | osint                      | facile         |                 |
 
