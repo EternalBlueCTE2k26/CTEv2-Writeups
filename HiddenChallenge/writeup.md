@@ -16,10 +16,11 @@ Ce challenge nécessite de résoudre 4 petites énigmes
 - Enigme 3 : sanctions encourues
 - Enigme 4 : liste des protagonistes du CTE v2
 
+---
 
 ## Identification du challenge caché
 
-Lors de l'analyse du code source du site `http://cybergold.agency` les joueurs découvrent un message caché sur la page **team.html*
+Lors de l'analyse du code source du site `http://cybergold.agency` les joueurs découvrent un message caché sur la page **team.html**
 
 ![](images/challenge-caché.png.png)
 
